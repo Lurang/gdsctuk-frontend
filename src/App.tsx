@@ -6,7 +6,7 @@ function App() {
     ? <></>
     : <>Dev Mode Detected</>;
 
-  const lastUpdatedTime = '06/02 오후 09:38분!';
+  const lastUpdatedTime = '06/02 오후 10:09분!';
   
   return (
     <div className="App">
